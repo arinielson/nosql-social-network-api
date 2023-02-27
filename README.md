@@ -56,7 +56,7 @@ The following image shows POST routes for reactions being tested in Insomnia:
 
 ## Links
 
-GiHub: https://github.com/arinielson/nosql-social-network-api
+GitHub: https://github.com/arinielson/nosql-social-network-api
 
 Video: https://drive.google.com/file/d/1Nv_PIe7s2ArJ-fiwXEOy7OHppPRbrSZd/view
 
